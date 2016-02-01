@@ -1,3 +1,5 @@
+## Yask's personal website built using React Starter Kit
+
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 [![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>
