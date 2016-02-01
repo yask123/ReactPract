@@ -1,4 +1,4 @@
-## Yask's personal website built using React Starter Kit
+# Yask's personal website built using React Starter Kit
 
 ## React Starter Kit — "isomorphic" web app boilerplate
 
