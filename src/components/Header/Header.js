@@ -19,7 +19,7 @@ class Header extends Component {
           </a>
           <Navigation className="Header-nav" />
           <div className="Header-banner">
-            <h1 className="Header-bannerTitle">React</h1>
+            <h1 className="Header-bannerTitle">Hi, I'm Yask</h1>
             <p className="Header-bannerDesc">Complex web apps made easy</p>
           </div>
         </div>
